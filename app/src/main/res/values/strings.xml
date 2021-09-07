@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather_by_Lora</string>
+    <string name="logo">Погода в вашем городе</string>
+    <string name="hint">Введите город</string>
+    <string name="main_btn">Узнать погоду</string>
+    <string name="input_text">Введите текст</string>
+</resources>
